@@ -1,0 +1,8 @@
+@font-face {
+  font-family: Gabrielle;
+  src: url("../font/gabrielle-webfont.eot");
+  src: local("Gabrielle"),
+       url("../font/gabrielle-webfont.otf") format("opentype"),
+       url("../font/gabrielle-webfont.svg") format("svg"),
+       url("../font/gabrielle-webfont.ttf");
+}
